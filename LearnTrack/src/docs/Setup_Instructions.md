@@ -4,9 +4,9 @@ Hello World Program Run:-
 
 ![img_1.png](img_1.png)
 
-1. Public Class Main :-
-    a) This defines the java class name as Main Class.
-    b) We save this as Main.java file.
+1. Public Class ui.Main :-
+    a) This defines the java class name as ui.Main Class.
+    b) We save this as ui.Main.java file.
 2. public static void main(String[] args)
    a) This is the main method.
    b) Java starts program execution from the main() method.
